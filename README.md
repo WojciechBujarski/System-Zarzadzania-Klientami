@@ -27,4 +27,4 @@ Jeśli chcesz uruchomić ten notatnik na swojej bazie danych, zrób tak:
 
 ## Podgląd aplikacji
 
-> [TUTAJ ZMIEŃ TEN TEKST NA SCREENA - zrób zrzut ekranu działającej apki, wrzuć do folderu z projektem i wpisz kod: ![](nazwa-twojego-screena.png) ]
+
