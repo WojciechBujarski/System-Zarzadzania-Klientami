@@ -27,4 +27,11 @@ Jeśli chcesz uruchomić ten notatnik na swojej bazie danych, zrób tak:
 
 ## Podgląd aplikacji
 
+Wszelkie dane klientów widoczne na zrzutach ekranu są całkowicie fikcyjne i zostały wygenerowane losowo na potrzeby prezentacji działania aplikacji.
+
+![](Screenshots/MenuDodawania.png)
+![](Screenshots/ListaKlientow.png)
+![](Screenshots/UsunKlientaZlisty.png)
+![](Screenshots/WyszukajKlienta.png)
+![](Screenshots/WyszukajKlienta2.png)
 
